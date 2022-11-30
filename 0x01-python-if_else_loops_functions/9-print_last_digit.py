@@ -1,4 +1,4 @@
- #!/usr/bin/python3
+#!/usr/bin/python3
 # Author - Oladele Adewunmi
 
 def print_last_digit(number):
