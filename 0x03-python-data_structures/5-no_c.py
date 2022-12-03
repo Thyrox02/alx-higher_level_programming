@@ -1,5 +1,5 @@
-
-_c(my_string):
+#!/usr/bin/python3
+def no_c(my_string):
     length = len(my_string)
 
     j = 0
