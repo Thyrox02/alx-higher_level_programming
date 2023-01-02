@@ -12,7 +12,7 @@ Usage
 
 ::
 
->>> matrix_mul = __import__('100-matrix_mul').matrix_mul
+    >>> matrix_mul = __import__('100-matrix_mul').matrix_mul
     >>> m_a = [
     ... [1, 2],
     ... [3, 4],
@@ -235,4 +235,3 @@ equivalent. Otherwise, a TypeError is raised.
     >>> print(matrix_mul(m_a, m_b))
     Traceback (most recent call last):
     TypeError: each row of m_a must should be of the same size
-
